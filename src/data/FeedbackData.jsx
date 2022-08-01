@@ -7,12 +7,12 @@ const FeedbackData = [
   {
     id: 2,
     rating: 9,
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+    text: 'Give your feedback to my applicaton',
   },
   {
     id: 3,
     rating: 8,
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+    text: 'Nice Application!!',
   },
 ]
 
